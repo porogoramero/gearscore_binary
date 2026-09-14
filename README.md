@@ -1,11 +1,16 @@
-# gearscore_binary
-Program to check WM's Icecrown character(gear, GS, ench/gems, achievs).
+# gearscore_binary     
+          
+         
+Program to check WM's Icecrown character(gear, GS, ench/gems, achievs).   
+Binary connects to armory webpage , parses it, counts GS and displays information about character.   
+Binary creates subdirectory GS. In GS is stored every displayed character for history.     
+From [python](https://www.python.org/) created by [Nuitka](https://nuitka.net/).
+
 
 > [!WARNING]
-> Only binary file.
+> Only binary file. 
 
-Download zip, unzip and run in command line (cmd.exe).  
-         
+**Install:** Download zip, unzip and run in command line (cmd.exe).     
 **Use:** charact.exe name     
 **Example:** charact.exe Myexamplecom     
     
@@ -57,5 +62,5 @@ Download zip, unzip and run in command line (cmd.exe).
 
  Scaned: 2026-09-10 15:00:00
 ```
-> [!WARNING]
-> Use it sensibly. On too many requests BAN on your IP can happen!
+> [!CAUTION]
+> Use it sensibly. On too many requests WM BAN on your IP can happen! Use on your own risk.
