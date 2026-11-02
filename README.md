@@ -13,6 +13,7 @@ From [python](https://www.python.org/) created by [Nuitka](https://nuitka.net/).
 **Install:** Download zip, unzip and run in command line (cmd.exe).     
 **Use:** charact.exe name     
 **Example:** charact.exe Myexamplecom     
+**Note:** 11/2026 new version: added prompt - run directly from zip file and enter player name 
     
 ```
  Myexamplecom  - Level 80 Draenei Paladin, Icecrown
